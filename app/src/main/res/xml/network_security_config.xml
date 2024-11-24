@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Add the necessary domains that need cleartext to be permitted
+, otherwise enable ssl pinning by adding host and pins-->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">jsonkeeper.com</domain>
+        <domain includeSubdomains="true">icons.iconarchive.com</domain>
+    </domain-config>
+</network-security-config>
