@@ -10,7 +10,7 @@ import com.caramel.slingshot.factory.DemoViewModelFactory
 import com.caramel.slingshot.repo.SlingshotRepository
 import com.caramel.slingshot.viewmodel.DemoViewModel
 
-class DemoActivity : AppCompatActivity() {
+class SlingshotActivity : AppCompatActivity() {
 
     // Get the ViewModel using the viewModels delegate
     private val demoViewModel: DemoViewModel by viewModels {

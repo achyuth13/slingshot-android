@@ -5,6 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
+import com.caramel.slingshot.model.Player
 
 @Dao
 interface PlayerDao {
