@@ -29,8 +29,8 @@ You can easily choose what to include or exclude using a bash script during the 
 The script will prompt you to select which setups you want to include in your app (Room Database, Retrofit, RecyclerView, Glide, etc.).
 
 - Run `make setup`, in the terminal.
-
-<img width="1015" alt="Make file in terminal" src="https://github.com/user-attachments/assets/0fad1b6d-5eb5-4f9b-bb57-f0251944c00e">'
+  
+![Screen Recording 2024-11-25 at 10 57 11 PM (1)](https://github.com/user-attachments/assets/99ca8d36-127c-4d7f-95ad-7fe86556e78a)
 
 If you want to stick with the default setup, simply choose **y** when prompted, and the script will proceed without any changes.
 
