@@ -3,7 +3,27 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:gravity="center"
+    android:layout_centerInParent="true">
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ready_to_sling"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/sliderImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/people"
+        android:contentDescription="Image for Ready to Sling"
+        android:layout_marginTop="16dp"/>
 
     <ProgressBar
         android:id="@+id/loadingIndicator"
@@ -15,6 +35,7 @@
         android:id="@+id/fetchButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Fetch Players" />
+        android:text="Fetch Players"
+        android:visibility="gone"/>
 
 </LinearLayout>
