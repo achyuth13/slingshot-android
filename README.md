@@ -14,9 +14,9 @@ This repository is perfect for developers who want to quickly set up an Android 
 ## Getting Started
 - Just click on **Use this template**
   
-  <img width="686" alt="Screenshot 2024-11-24 at 8 04 32 PM" src="https://github.com/user-attachments/assets/1ac174f2-64d9-4d66-b9a8-c01db01aa849">
+  <img width="500" alt="Use this template" src="https://github.com/user-attachments/assets/1ac174f2-64d9-4d66-b9a8-c01db01aa849">
 - And then choose
-<img width="185" alt="Screenshot 2024-11-24 at 8 05 03 PM" src="https://github.com/user-attachments/assets/67a9e934-1184-419d-9d22-4040e2fbdc8e">
+<img width="185" alt="Create a new repo" src="https://github.com/user-attachments/assets/67a9e934-1184-419d-9d22-4040e2fbdc8e">
 
 - Create a new repo, of your liking.
 
@@ -29,6 +29,8 @@ You can easily choose what to include or exclude using a bash script during the 
 The script will prompt you to select which setups you want to include in your app (Room Database, Retrofit, RecyclerView, Glide, etc.).
 
 - Run `make setup`, in the terminal.
+
+<img width="1015" alt="Make file in terminal" src="https://github.com/user-attachments/assets/0fad1b6d-5eb5-4f9b-bb57-f0251944c00e">'
 
 If you want to stick with the default setup, simply choose **y** when prompted, and the script will proceed without any changes.
 
