@@ -1,6 +1,6 @@
 # Slingshot 🚀 
 
-Slingshot, for **Android** is a boilerplate project designed to accelerate the development of Android applications. With an emphasis on scalability and maintainability, this project provides a ready-made structure based on the **MVVM** architecture pattern and comes pre-configured with essential tools.
+Slingshot, for **Android** is a boilerplate project designed to accelerate the development of Android applications. With an emphasis on scalability and maintainability, this project provides a ready-made structure based on the **MVVM** architecture pattern and comes pre-configured with essential tools
 
 This repository is perfect for developers who want to quickly set up an Android app while following best practices and architecture patterns, enabling you to focus on writing the features and logic that matter.
 
