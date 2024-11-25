@@ -1,6 +1,6 @@
 # Slingshot 🚀 
 
-Slingshot, for **Android** is a boilerplate project designed to accelerate the development of Android applications. With an emphasis on scalability and maintainability, this project provides a ready-made structure based on the **MVVM** architecture pattern and comes pre-configured with essential tools.
+**Slingshot**, for **Android** is a boilerplate project designed to accelerate the development of Android applications. With an emphasis on scalability and maintainability, this project provides a ready-made structure based on the **MVVM** architecture pattern and comes pre-configured with essential tools.
 
 This repository is perfect for developers who want to quickly set up an Android app while following best practices and architecture patterns, enabling you to focus on writing the features and logic that matter.
 
@@ -18,8 +18,23 @@ This repository is perfect for developers who want to quickly set up an Android 
 - And then choose
 <img width="185" alt="Screenshot 2024-11-24 at 8 05 03 PM" src="https://github.com/user-attachments/assets/67a9e934-1184-419d-9d22-4040e2fbdc8e">
 
+- Create a new repo, of your liking.
+
 - Sync the gradle - **and SLINGSHOT your app into the ethos!** 🚀🚀🚀, (I mean run the application xD)
 
+### Optional Setup Customization (Template Configuration)
+This template includes several optional configurations for your app (like Room Database, Retrofit Network setup, RecyclerView, and Glide).
+
+You can easily choose what to include or exclude using a bash script during the setup. Here's how:
+The script will prompt you to select which setups you want to include in your app (Room Database, Retrofit, RecyclerView, Glide, etc.).
+
+- Run `make setup`, in the terminal.
+
+If you want to stick with the default setup, simply choose **y** when prompted, and the script will proceed without any changes.
+
+If you choose **n** for any feature, the corresponding dependencies and folders will be removed from your project.
+
+This setup will allow you to quickly customize the project to suit your needs.
 
 ## Libraries Used
 
