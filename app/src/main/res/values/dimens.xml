@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="sl_8dp">8dp</dimen>
+    <dimen name="sl_16dp">16dp</dimen>
+    <dimen name="sl_24dp">24dp</dimen>
+    <dimen name="sl_32dp">32dp</dimen>
 
+    <dimen name="sl_12sp">12sp</dimen>
+    <dimen name="sl_14sp">14sp</dimen>
+    <dimen name="sl_18sp">18sp</dimen>
+    <dimen name="sl_20sp">20sp</dimen>
+    <dimen name="sl_24sp">24sp</dimen>
+
+    <dimen name="sl_48dp">48dp</dimen>
+    <dimen name="sl_16dp_button_padding">16dp</dimen>
+    <dimen name="sl_8dp_radius">8dp</dimen>
+
+    <dimen name="sl_24dp_icon">24dp</dimen>
+    <dimen name="sl_32dp_icon">32dp</dimen>
+    <dimen name="sl_48dp_icon">48dp</dimen>
+
+    <dimen name="sl_48dp_edittext">48dp</dimen>
+    <dimen name="sl_16dp_edittext_padding">16dp</dimen>
+
+    <dimen name="sl_8dp_cardview_radius">8dp</dimen>
+    <dimen name="sl_16dp_cardview_margin">16dp</dimen>
+
+    <dimen name="sl_56dp_toolbar_height">56dp</dimen>
+
+    <dimen name="sl_300dp_dialog_height">300dp</dimen>
+    <dimen name="sl_400dp_bottomsheet_height">400dp</dimen>
+
+    <dimen name="sl_1dp_divider_thickness">1dp</dimen>
+
+    <dimen name="sl_24dp_status_bar_height">24dp</dimen>
+
+    <dimen name="sl_56dp_navigation_bar_height">56dp</dimen>
+
+    <dimen name="sl_4dp_viewpager_indicator_size">4dp</dimen>
+    <dimen name="sl_8dp_viewpager_indicator_margin">8dp</dimen>
+
+    <dimen name="sl_72dp_list_item_height">72dp</dimen>
+    <dimen name="sl_16dp_list_item_padding">16dp</dimen>
+
+    <dimen name="sl_48dp_snackbar_height">48dp</dimen>
 </resources>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Slingshot</string>
+    <string name="ready_to_sling">Ready to Sling?!</string>
 </resources>
