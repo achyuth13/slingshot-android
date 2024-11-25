@@ -47,4 +47,4 @@ if [[ "$include_recycler" != "y" && "$include_recycler" != "Y" ]]; then
     rm -rf app/src/main/java/com/caramel/slingshot/adapters
 fi
 
-echo "Slingshot is ready!"
+echo "Slingshot is ready!, don't forget to sync the gradle!"
