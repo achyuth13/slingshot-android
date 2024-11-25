@@ -4,7 +4,7 @@ import android.widget.ImageView
 import com.bumptech.glide.Glide
 import com.caramel.slingshot.R
 
-object ImageLoader {
+object ImageUtil {
     // A simple method to load images into an ImageView
     /* How to use?
         ImageLoader.loadImage(holder.itemView.playerAvatar, player.icon)

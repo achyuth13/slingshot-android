@@ -37,7 +37,7 @@ if [[ "$include_glide" != "y" && "$include_glide" != "Y" ]]; then
     echo "Removing Glide dependencies from build.gradle"
     sed -i '' '/glide/d' app/build.gradle
     sed -i '' '/compiler/d' app/build.gradle
-    rm -rf app/src/main/java/com/caramel/slingshot/glide
+    rm -rf app/src/main/java/com/caramel/slingshot/util/ImageUtil.kt
 fi
 
 if [[ "$include_recycler" != "y" && "$include_recycler" != "Y" ]]; then
